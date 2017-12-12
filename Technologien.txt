@@ -3,6 +3,9 @@ Wartung, Betreuung, ... , Webanwendung "Mitarbeiter-Profile" ebenfalls in Java g
 
 soll das Moduls "Inventarverwaltung" (besser: ein eindeutiges Wort Inventarverwaltungs-Modul) ebenfalls in der Programmiersprabeh Java entwickelt werden.
 
+Bestehende relationale Datenbank (TODO): Tabellen werden in die dritte Normalform normalisiert, um Anomalien beim Einfügen, Löschen und Ändern von Datensätzen zu vermeiden.
+
+
 Mit Hilfe des Application Generators JHipster soll schnell eine Grundgerüst einer modernen Webanwendung, die serverseitig das Spring Framework für und 
 
 JHipster is a free and open-source application generator used to develop quickly a modern web application and Microservices using Angular and the Spring Framework.
@@ -12,3 +15,8 @@ It can also create microservice stack with support for Netflix OSS, Docker and K
 
 Tool zur Datenbankunterstützung: CASE Computer Aided Software Engineering
 CASE Tool zur Modellierung des Tabellenmodells der Datenbank: TODO
+
+
+JHipster wird eingesetzt für:
+microservice erzeugung
+Generate CRUD entities, directly or by scaffolding
