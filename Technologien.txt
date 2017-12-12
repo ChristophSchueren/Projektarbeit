@@ -1,0 +1,14 @@
+Da Spirit Testing intern mit Java arbeitet und auf diesem Gebiet 
+Wartung, Betreuung, ... , Webanwendung "Mitarbeiter-Profile" ebenfalls in Java geschriben
+
+soll das Moduls "Inventarverwaltung" (besser: ein eindeutiges Wort Inventarverwaltungs-Modul) ebenfalls in der Programmiersprabeh Java entwickelt werden.
+
+Mit Hilfe des Application Generators JHipster soll schnell eine Grundgerüst einer modernen Webanwendung, die serverseitig das Spring Framework für und 
+
+JHipster is a free and open-source application generator used to develop quickly a modern web application and Microservices using Angular and the Spring Framework.
+
+It can also create microservice stack with support for Netflix OSS, Docker and Kubernetes.
+
+
+Tool zur Datenbankunterstützung: CASE Computer Aided Software Engineering
+CASE Tool zur Modellierung des Tabellenmodells der Datenbank: TODO
