@@ -23,6 +23,7 @@ JHipster wird eingesetzt für:
 microservice erzeugung
 Generate CRUD entities, directly or by scaffolding
 
+Liquibase is an open source database-independent library for tracking, managing and applying database schema changes.
 
 SPRING framework:
 -Dependency Injection
@@ -30,7 +31,18 @@ SPRING framework:
 -Spring MVC and Spring WebFlux web frameworks
 -Foundational support for JDBC, JPA, JMS
 
+-Framework of Frameworks,
+-Gut testbar (z.B. durch Dependency Injection IoC =Inversion of Control)
+-Interfaces ermoeglichen Entkopplung und individuelle Anpassbarkeit des Frameworks durch eigenen Code
+-Schnellerer Projektabschluss dank viel vorgefertigtem Code: Produktivitaet
+
+
 Microservices
+
+Leichtes Upgrade einer Anwendung, Erweiterbarkeit
+
+microservice _kann_ auf einem anderen Technologiestack beruhen als Hauptanwendung, Kommunikation über REST
+
  Architekturmuster, bei dem komplexe Anwendungssoftware aus unabhängigen Prozessen komponiert wird, die untereinander mit sprachunabhängigen Programmierschnittstellen kommunizieren. Hier REST.
  Die Dienste sind weitgehend entkoppelt und erledigen eine kleine Aufgabe. So ermöglichen sie einen modularen Aufbau von Anwendungssoftware.[1][2]
 Die Dienste haben eine einzige Geschäftsfunktion. Sie können beispielsweise einen Bestellvorgang, die Registrierung oder die Rechnungserstellung umfassen, jedoch nicht mehrere dieser Dinge.
