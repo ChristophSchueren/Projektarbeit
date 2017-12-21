@@ -1,14 +1,16 @@
-UserStory Schma:
+#UserStory Schma:
 Als <Rolle> möchte ich <Funktion>, um <Zweck zu erreichen>
 
-Rollen:
+#Rollen:
 Administrator
 Verwalter
 Berechtiger Nutzer
 Standardnutzer
 Angreifer
 Buchhalter
+Tester
 
+#Stories
 
 Als Administrator möchte ich Daten sichern um Datensicherheit zu erhöhen
 Als Administrator möchte ich Nutzern neue Rollen zuweisen um ihnen Berechtigungen zu geben
@@ -38,9 +40,9 @@ Als Nutzer möchte ich an Termine in Verbindung mit meinen Items erinnert werden
 
 Als Nutzer möchte ich an AUSGEWÄHLTE Termine in Verbindung mit AUSGEWÄHLTEN Items erinnert werden.
 
-
 Als Verwalter möchte ich Termine in Verbindung mit  Items setzen, um z.B Inspektionen vornehmen zu können.
 
+Als Tester möchte ich vorgefertigte, sinnvolle Beispieldaten laden können, um einen Integrationstest mit Datenbank vorzunehmen.
 
 
 Gut als Tabelle darstellbar 
