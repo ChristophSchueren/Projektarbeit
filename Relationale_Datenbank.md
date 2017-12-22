@@ -10,7 +10,7 @@
 
 
 ##Writing
-1. Buchung schreiben
+1. Buchung (Eigene Entität mit eigener Tabelle = "Log") schreiben
 2. Buchung prüfen (Status, Ausführungsdatum, Queued, Doing, Done)
 3. Zustand der betroffenen Daten prüfen
 4. Buchung durchführen
