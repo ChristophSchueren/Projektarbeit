@@ -15,3 +15,5 @@ Muss von SSV ausgehen
 
 ##Bezeichung
 "inventar item" sind zwei Worte. "Asset" besser?
+
+##Tabellen in gleicher Datenbank wie SSV Spirit SkillProfil Verwaltung: Präfix INV_

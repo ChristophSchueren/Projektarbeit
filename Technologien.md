@@ -5,6 +5,8 @@ Spring dient zu JavaEE Enterprise Edition
 
 soll das Moduls "Inventarverwaltung" (besser: ein eindeutiges Wort Inventarverwaltungs-Modul) ebenfalls in der Programmiersprabeh Java entwickelt werden.
 
+Angular 4 zum Erzeugen einer modernen, responsiven Single-Page-Applikation
+
 Bestehende relationale Datenbank (TODO): Tabellen werden in die dritte Normalform normalisiert, um Anomalien beim Einfügen, Löschen und Ändern von Datensätzen zu vermeiden.
 
 
