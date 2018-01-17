@@ -1,5 +1,11 @@
 # Umfang
 
+## Zielvorgaben Dokumentation
+Seitenzahl:
+Anhangszahl:
+Stunden total:
+Stunden inclusive Dokumentationszeit:
+
 Inventarverwaltung standalone Microservice
 
 JavaScript Library mit

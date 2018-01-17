@@ -13,7 +13,9 @@ Entwickler
 
 #Stories
 
-
+Als User möchte ich mit meiner digitalen Unterschrift den Erhalt des Assets bestätigen, sowie Zustandsmängel nachweisbar dokomentieren um bei Rückgabe keine unverschuldeten Mängel angelastet zu bekommen.
+Als Office möchte ich dem User die Rückgabe des Assets mit einer digitalen Signatur bestätigen, um für ihn Rechtssicherheit zu schaffen.
+Als Entwickler möchte ich während des gesamten Lifecycle der Anwendung....
 Als Nutzer möchte ich auch mobil vom Handy eine optisch ansprechende Darstellung der Webapplikation einfach und intuitiv bedienen können 
 Als Entwickler möchte ich dabei unterstützt werden gut verständlichen und wartbaren Code zu schreiben und automatisch Rückmeldung über Veränderungen von Codequalitätsindikatoren wie z.B. zyklomatischer Komplexität erhalten 
 Als Entwickler möchte ich einen voll automatisierten Deployment-Prozess haben, der mir häufig, schnell, und zuverlässige Test- und Release-Builds erzeugen kann.

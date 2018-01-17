@@ -7,6 +7,8 @@ soll das Moduls "Inventarverwaltung" (besser: ein eindeutiges Wort Inventarverwa
 
 Angular 4 zum Erzeugen einer modernen, responsiven Single-Page-Applikation
 
+Datagrid
+
 Bestehende relationale Datenbank (TODO): Tabellen werden in die dritte Normalform normalisiert, um Anomalien beim Einfügen, Löschen und Ändern von Datensätzen zu vermeiden.
 
 
